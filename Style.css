@@ -1,0 +1,179 @@
+tubuh {
+	latar belakang : biru muda;
+}
+. wadah {
+	lebar :  1205 piksel ;
+	tinggi :  600 piksel ;
+	batas :  1 px solid rgb ( 243 ,  240 ,  240 );
+	margin :  50 px otomatis;
+	bantalan :  2 piksel ;
+	batas-radius :  10 px ;
+}
+. kotak1 {
+	lebar :  400 piksel ;
+	tinggi :  600 piksel ;
+	border-right :  1 px biru pekat;
+	batas-atas-kiri-radius :  10 px ;
+	batas-bawah-kiri-radius :  10 px ;
+	background-warna : putih;
+	mengapung : kiri;
+}
+. kotak1  img {
+	lebar :  250 piksel ;
+	tinggi :  200 piksel ;
+	margin-kiri :  25 % ;
+	margin-atas :  10 px ;
+}
+. kotak1  h2 {
+	perataan teks : tengah;
+	warna : biru;
+}
+. kotak1  h4 {
+	perataan teks : tengah;
+	warna : biru;
+}
+. kotak1  h1 {
+	perataan teks : tengah;
+	warna : biru;
+}
+. boxmac1 {
+	lebar :  150 piksel ;
+	tinggi :  40 piksel ;
+	batas :  2 px putih solid;
+	batas-radius :  30 px ;
+	margin-kiri :  30 % ;
+}
+. boxmac1  h3 {
+	latar belakang : putih;
+	warna : biru;
+	perataan teks : tengah;
+	font-family : Georgia ,  'Times New Roman' , Times , serif;
+	ukuran font :  10 px ;
+	margin-atas :  -0 % ;
+	batas-radius :  20 px ;
+
+}
+. boxmac1  h3 : arahkan {
+	warna : putih;
+}
+
+. kotak2 {
+	lebar :  400 piksel ;
+	tinggi :  600 piksel ;
+	background-warna : putih;
+	mengapung : kiri;
+}
+. kotak2  img {
+	lebar :  250 piksel ;
+	tinggi :  200 piksel ;
+	margin-kiri :  25 % ;
+	margin-atas :  10 px ;
+}
+. kotak2  h2 {
+	perataan teks : tengah;
+	warna : oranye;
+}
+.kotak2  h4 {
+	perataan teks: tengah;
+	warna : oranye;
+}
+. kotak2  h1 {
+	perataan teks : tengah;
+	warna: oranye;
+}
+. kotakmac2 {
+	lebar :  150 piksel ;
+	tinggi :  40 piksel ;
+	batas :  2 px putih solid;
+	batas-radius :  30 px ;
+	margin-kiri :  30 % ;
+}
+. boxmac2  h3 {
+	latar belakang : putih;
+	warna : oranye;
+	perataan teks : tengah;
+	font-family : Georgia ,  'Times New Roman' , Times , serif;
+	ukuran font :  10 px ;
+	margin-atas :  -0 px ;
+	batas-radius :  20 px ;
+}
+. boxmac2  h3 : arahkan {
+	warna : putih;
+}
+. kotak3 {
+	lebar :  400 piksel ;
+	tinggi :  600 piksel ;
+	border-left :  1 px blueviolet solid;
+	batas-atas-kanan-radius :  10 px ;
+	batas-bawah-kanan-radius :  10 px ;
+	background-warna : putih;
+	mengapung : kiri;
+}
+. kotak3  img {
+	lebar :  250 piksel ;
+	tinggi :  200 piksel ;
+	margin-kiri :  25 % ;
+	margin-atas :  10 px ;
+}
+. kotak3  h2 {
+	perataan teks : tengah;
+	warna : nila;
+}
+. kotak3  h4 {
+	perataan teks : tengah;
+	warna :   nila;
+}
+. kotak3  h1 {
+	perataan teks : tengah;
+	warna : nila;
+}
+. kotakmac3 {
+	lebar :  150 piksel ;
+	tinggi :  40 piksel ;
+	batas :  2 px putih solid;
+	batas-radius :  30 px ;
+	margin-kiri :  30 % ;
+}
+. boxmac3  h3 {
+	latar belakang : putih;
+	warna : nila;
+	perataan teks : tengah;
+	font-family : Georgia ,  'Times New Roman' , Times , serif;
+	ukuran font :  10 px ;
+	margin-atas :  -0 px ;
+	transisi :  00.2 s linier;
+	batas-radius :  20 px ;
+}
+. boxmac3  h3 : arahkan {
+	warna : putih;
+}
+/*
+.tombol {
+    transisi: 0,2 detik linier;
+    ukuran font: 30px;
+	tinggi garis: 40px;
+}
+.tombol:arahkan kursor {
+    mengubah: skala(1.3);
+    warna putih;
+}
+*/
+. tombol {
+  batas : 0 ;
+  latar belakang : tidak ada;
+  tampilan : blok;
+  margin :  20 px otomatis;
+  perataan teks : tengah;
+  batas :  2 px solid # 2ecc71 ;
+  bantalan :  14 px  40 px ;
+  garis besar : tidak ada;
+  warna : putih;
+  batas-radius :  24 px ;
+  transisi :  0,25 detik ;
+  kursor : penunjuk;
+}
+
+
+. tombol : melayang {
+  latar belakang : biru;
+}
